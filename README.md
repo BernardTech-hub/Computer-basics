@@ -1,2 +1,3 @@
-# Computer-basics
-we provide comprehensive resource for learning ICT and other computer repair and maintenance video tutorials. Learn all the important subjects in Computer online step-by-step.
+Learn Information and Communication Technology (ICT) online on this YouTube channel . we provide comprehensive resource for learning ICT and other computer repair and maintenance video tutorials. Learn all the important subjects in Computer online step-by-step.
+ The Computer science subjects includes computer programming , software engineering , computer hardware , computer software , data structures and algorithms , database management systems , DBMS , relational database management systems , RDBMS , operating systems , web design , web development , data science , machine learning , big data , artificial intelligence and computer engineering.
+ you can follow my vodeo tutorials on this youtube channel  https://rb.gy/ovmkgg
